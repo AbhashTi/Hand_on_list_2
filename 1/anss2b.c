@@ -46,14 +46,4 @@ int main() {
     return 0;
 }
 
-/*  OUTPUT::
- saurabh@abhash-HP-Laptop-14s-er0xxx:~$ vim anss2b.c
-saurabh@abhash-HP-Laptop-14s-er0xxx:~$ gcc anss2b.c -o anss2b.out
-saurabh@saurabh-HP-Laptop-14s-er0xxx:~$ ./anss2b.out
-ITIMER_VIRTUAL: Timer expired!
-ITIMER_VIRTUAL: Timer expired!
-^C
-saurabh@saurabh-HP-Laptop-14s-er0xxx:~$ 
 
-
- */
