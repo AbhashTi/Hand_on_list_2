@@ -46,12 +46,3 @@ int main() {
     return 0;
 }
 
-/*
- saurabh@abhash-HP-Laptop-14s-er0xxx:~$ gcc anss1.c -o anss1.out
-saurabh@abhash-HP-Laptop-14s-er0xxx:~$ ./anss1.out
-ITIMER_REAL: Timer expired!
-ITIMER_REAL: Timer expired!
-ITIMER_REAL: Timer expired!
-ITIMER_REAL: Timer expired!
-
- */
